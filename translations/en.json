@@ -1,0 +1,12 @@
+{
+  "findPatient":"Find Patient",
+  "find":"Find",
+  "loading": "Loading",
+  "patientInfo":"PATIENT INFORMATION:-",
+  "firstName":"First Name",
+  "lastName":"Last Name",
+  "gender":"Gender",
+  "female":"Female",
+  "male":"Male"
+
+}
