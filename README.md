@@ -1,5 +1,7 @@
 # OpenMRS Patient Finder App
 ![alt screenshot](https://raw.githubusercontent.com/magabe26/openmrs-patient-finder-app/main/screenshoot01.bmp)
+
+
 A microfrontend module that fetches a particular patient data from an OpenMRS server and
 display that information to the user.
 
